@@ -8,4 +8,4 @@
 
 `waveSimData.zip` contains the raw values of $l_f$ obtained from ray simulations.
 
-`field.zip` contains the data corresponding to the exemplar random spatially-correlated field $h(x,y)$ shown in the paper.
+`field.zip` contains the data corresponding to the exemplar random spatially-correlated field $h(x,s)$ shown in the paper.
